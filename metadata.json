@@ -1,0 +1,6 @@
+{
+  "name": "Aura Gym & Fitness",
+  "description": "Premium athletic coaching experience, weekly timetable scheduler, AI fitness custom planner using Gemini, and integrated M-PESA digital checkout simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
